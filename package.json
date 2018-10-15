@@ -1,0 +1,23 @@
+{
+  "name": "becode-workshop-firebase",
+  "version": "1.0.0",
+  "description": "- **Quoi ?** : Workshop sur Firebase pendant ma formation chez BeCode. - **Contact** : Cedric Fournier - [Mail](cedricfournier.pro@gmail.com) - [Linkedin](https://www.linkedin.com/in/cedric-fournier/) - [GitHub](https://github.com/Cedric-Fournier) - **Où ?** : [BeCode](https://www.becode.org/) - Johnson 2 - **Quand ?** :      - *Préparation* : juin 2018     - *Première Présentation* : Mercredi 10 octobre 2018",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^5.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cedric-Fournier/Becode-Workshop-Firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cedric-Fournier/Becode-Workshop-Firebase/issues"
+  },
+  "homepage": "https://github.com/Cedric-Fournier/Becode-Workshop-Firebase#readme"
+}
